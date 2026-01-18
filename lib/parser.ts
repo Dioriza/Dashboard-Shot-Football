@@ -107,8 +107,8 @@ export class DataParser {
     });
 
     // Determine consensus team name for each side
-    let homeTeamName = Object.entries(homeTeamCounts).sort((a, b) => b[1] - a[1])[0]?.[0];
-    let awayTeamName = Object.entries(awayTeamCounts).sort((a, b) => b[1] - a[1])[0]?.[0];
+    let homeTeamName = Object.entries(homeTeamCounts).sort((a: [string, number], b: [string, number]) => b[1] - a[1])[0]?.[0];
+    let awayTeamName = Object.entries(awayTeamCounts).sort((a: [string, number], b: [string, number]) => b[1] - a[1])[0]?.[0];
 
     // 3. Fallback to basic heuristics if player mapping failed
     if (!homeTeamName) {

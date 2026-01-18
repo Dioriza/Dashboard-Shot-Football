@@ -6,6 +6,7 @@ import { GoalMouthMap } from '../viz/GoalMouthMap';
 import { TeamComparisonChart, XGTimeline, BreakdownChart } from '../viz/AnalyticsCharts';
 import { DetailedStats } from '../viz/DetailedStats';
 import { useDashboardStore } from '../../lib/store';
+import { MatchEvent } from '../../lib/parser';
 
 export const MatchView = () => {
     const { rawMatchData, matchStats } = useDashboardStore();
@@ -23,9 +24,9 @@ export const MatchView = () => {
     let hCum = 0;
     let aCum = 0;
     rawMatchData.events
-        .filter(e => e.type === 'goal' || e.xg > 0)
-        .sort((a, b) => a.periodTime - b.periodTime)
-        .forEach(e => {
+        .filter((e: MatchEvent) => e.type === 'goal' || e.xg > 0)
+        .sort((a: MatchEvent, b: MatchEvent) => a.periodTime - b.periodTime)
+        .forEach((e: MatchEvent) => {
             if (e.teamSide === 'home') hCum += e.xg;
             else aCum += e.xg;
             timelineData.push({

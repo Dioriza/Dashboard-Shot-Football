@@ -64,9 +64,9 @@ export default function Home() {
             <DashboardLayout>
                 <div
                     className={`flex h-[70vh] flex-col items-center justify-center rounded-[2.5rem] border-2 border-dashed transition-all duration-700 group relative overflow-hidden ${dragActive ? 'border-[#E90052] bg-[#E90052]/5' : 'border-white/10 bg-[#141417]/50'}`}
-                    onDragOver={(e) => { e.preventDefault(); setDragActive(true); }}
+                    onDragOver={(e: React.DragEvent) => { e.preventDefault(); setDragActive(true); }}
                     onDragLeave={() => setDragActive(false)}
-                    onDrop={(e) => {
+                    onDrop={(e: React.DragEvent) => {
                         e.preventDefault();
                         setDragActive(false);
                         handleFileUpload(e.dataTransfer.files);
@@ -87,7 +87,7 @@ export default function Home() {
                         </p>
 
                         <input type="file" accept=".json,.csv" className="hidden" id="file-upload"
-                            onChange={(e) => handleFileUpload(e.target.files)} />
+                            onChange={(e: React.ChangeEvent<HTMLInputElement>) => handleFileUpload(e.target.files)} />
 
                         <label htmlFor="file-upload" className="cursor-pointer group/btn inline-flex items-center justify-center gap-3 px-10 py-5 text-lg font-bold text-white bg-white/10 rounded-2xl hover:bg-[#E90052] transition-all shadow-2xl border border-white/10 hover:border-[#E90052]/50 hover:translate-y-[-4px]">
                             <span>Select Intelligence File</span>

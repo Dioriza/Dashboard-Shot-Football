@@ -33,8 +33,8 @@ export interface PlayerStats extends StatSummary {
 export class AnalyticsEngine {
 
     public calculateMatchStats(data: MatchData) {
-        const homeEvents = data.events.filter(e => e.teamSide === 'home');
-        const awayEvents = data.events.filter(e => e.teamSide === 'away');
+        const homeEvents = data.events.filter((e: MatchEvent) => e.teamSide === 'home');
+        const awayEvents = data.events.filter((e: MatchEvent) => e.teamSide === 'away');
 
         return {
             home: this.computeStats(homeEvents, data.homeTeamName, true),
@@ -47,7 +47,7 @@ export class AnalyticsEngine {
         // Group events by player
         const playerGroups = new Map<string, MatchEvent[]>();
 
-        data.events.forEach(e => {
+        data.events.forEach((e: MatchEvent) => {
             if (!playerGroups.has(e.playerId)) {
                 playerGroups.set(e.playerId, []);
             }
@@ -146,7 +146,7 @@ export class AnalyticsEngine {
         }
 
         // Dominant Situation Insight
-        const getTopKey = (obj: Record<string, number>) => Object.keys(obj).reduce((a, b) => obj[a] > obj[b] ? a : b, '');
+        const getTopKey = (obj: Record<string, number>) => Object.keys(obj).reduce((a: string, b: string) => obj[a] > obj[b] ? a : b, '');
         const homeSit = getTopKey(homeStats.shotsBySituation);
         if (homeSit) {
             insights.push(`${homeStats.teamName} relied heavily on ${homeSit} situations.`);

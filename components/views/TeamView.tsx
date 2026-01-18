@@ -1,5 +1,6 @@
 import React from 'react';
 import { useDashboardStore } from '../../lib/store';
+import { MatchEvent } from '../../lib/parser';
 import { Card } from '../ui/Card';
 import { Pitch } from '../Pitch';
 import { ShotMap } from '../ShotMap';
@@ -12,7 +13,7 @@ export const TeamView = () => {
 
     const side = selectedTeamSide || 'home';
     const stats = side === 'home' ? matchStats.home : matchStats.away;
-    const events = rawMatchData.events.filter(e => e.teamSide === side);
+    const events = rawMatchData.events.filter((e: MatchEvent) => e.teamSide === side);
 
     return (
         <div className="space-y-8">

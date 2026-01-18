@@ -5,7 +5,8 @@ import {
     PieChart, Pie, Cell
 } from 'recharts';
 
-export const TeamComparisonChart = ({ data }: any) => {
+export interface TeamComparisonData { label: string; home: number | string; away: number | string; }
+export const TeamComparisonChart = ({ data }: { data: TeamComparisonData[] }) => {
     return (
         <ResponsiveContainer width="100%" height={300}>
             <BarChart data={data} layout="vertical" margin={{ left: 40, right: 40, top: 20, bottom: 20 }}>
@@ -37,7 +38,8 @@ export const TeamComparisonChart = ({ data }: any) => {
     );
 };
 
-export const XGTimeline = ({ data }: any) => {
+export interface XGTimelineData { name: string; home: number; away: number; }
+export const XGTimeline = ({ data }: { data: XGTimelineData[] }) => {
     return (
         <ResponsiveContainer width="100%" height={300}>
             <AreaChart data={data} margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
@@ -93,7 +95,8 @@ export const XGTimeline = ({ data }: any) => {
     );
 };
 
-export const PlayerRadar = ({ data, comparisonData }: { data: any[], comparisonData?: any[] }) => {
+export interface RadarData { subject: string; value: number; compareValue?: number; }
+export const PlayerRadar = ({ data, comparisonData }: { data: RadarData[], comparisonData?: RadarData[] }) => {
     if (!data || data.length === 0) return null;
 
     return (
@@ -150,7 +153,8 @@ export const PlayerRadar = ({ data, comparisonData }: { data: any[], comparisonD
     );
 };
 
-export const BreakdownChart = ({ data }: any) => {
+export interface BreakdownData { name: string; value: number; }
+export const BreakdownChart = ({ data }: { data: BreakdownData[] }) => {
     const COLORS = ['#E90052', '#38003C', '#0070F3', '#00FF85', '#FFA500', '#888888'];
 
     return (

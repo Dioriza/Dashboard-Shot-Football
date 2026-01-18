@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { useDashboardStore } from '../../lib/store';
+import { PlayerStats } from '../../lib/analytics';
+import { MatchEvent } from '../../lib/parser';
 import { Card } from '../ui/Card';
 import { PlayerRadar } from '../viz/AnalyticsCharts';
 import { BodyPartStats } from '../viz/BodyPartStats';
@@ -13,12 +15,12 @@ export const PlayerView = () => {
     const sortedPlayers = [...playerStats].sort((a, b) => b.xg - a.xg);
 
     const selectedPlayer = selectedPlayerId
-        ? playerStats.find(p => p.playerId === selectedPlayerId)
+        ? playerStats.find((p: PlayerStats) => p.playerId === selectedPlayerId)
         : sortedPlayers[0];
 
     // Filter events for the selected player
     const playerEvents = rawMatchData && selectedPlayer
-        ? rawMatchData.events.filter(e => e.playerId === selectedPlayer.playerId)
+        ? rawMatchData.events.filter((e: MatchEvent) => e.playerId === selectedPlayer.playerId)
         : [];
 
     return (
