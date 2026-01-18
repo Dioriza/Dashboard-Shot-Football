@@ -1,8 +1,6 @@
-# TacticsBoard: Premium Football Analytics Engine ⚽📊
+# Dashboard: TacticsBoard ⚽📊
 
 TacticsBoard is a high-fidelity football analytics dashboard built with Next.js, featuring advanced tactical insights and stunning visualizations. It processes match data (JSON/CSV) to generate professional-grade reports on team performance and player efficiency.
-
-![Match Analysis Overview](docs/screenshots/match_analysis.png)
 
 ## 🚀 Key Features
 
@@ -45,8 +43,7 @@ TacticsBoard is a high-fidelity football analytics dashboard built with Next.js,
 
 1. **Clone the repository**:
    ```bash
-   git clone [your-repo-url]
-   cd match_dashboard/temp_src
+   git clone https://github.com/Dioriza/Dashboard-Shot-Football
    ```
 
 2. **Install dependencies**:
