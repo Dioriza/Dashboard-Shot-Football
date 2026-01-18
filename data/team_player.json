@@ -1,0 +1,2986 @@
+{
+  "players": [
+    {
+      "Player": "Brenden Aaronson",
+      "Pos": "FW,MF",
+      "Team": "Leeds United",
+      "Born": 2000
+    },
+    {
+      "Player": "Zach Abbott",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2006
+    },
+    {
+      "Player": "Joshua Acheampong",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 2006
+    },
+    {
+      "Player": "Tyler Adams",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 1999
+    },
+    {
+      "Player": "Tosin Adarabioyo",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 1997
+    },
+    {
+      "Player": "Simon Adingra",
+      "Pos": "FW,MF",
+      "Team": "Sunderland",
+      "Born": 2002
+    },
+    {
+      "Player": "Amine Adli",
+      "Pos": "FW,MF",
+      "Team": "Bournemouth",
+      "Born": 2000
+    },
+    {
+      "Player": "Emmanuel Agbadou",
+      "Pos": "DF",
+      "Team": "Wolves",
+      "Born": 1997
+    },
+    {
+      "Player": "Nayef Aguerd",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1996
+    },
+    {
+      "Player": "Ola Aina",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 1996
+    },
+    {
+      "Player": "Rayan Aït-Nouri",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 2001
+    },
+    {
+      "Player": "Kristoffer Ajer",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 1998
+    },
+    {
+      "Player": "Nathan Aké",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 1995
+    },
+    {
+      "Player": "Carlos Alcaraz",
+      "Pos": "MF,FW",
+      "Team": "Everton",
+      "Born": 2002
+    },
+    {
+      "Player": "Omar Alderete",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 1996
+    },
+    {
+      "Player": "Alisson",
+      "Pos": "GK",
+      "Team": "Liverpool",
+      "Born": 1992
+    },
+    {
+      "Player": "Max Alleyne",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 2005
+    },
+    {
+      "Player": "Jaydon Amauri Banel",
+      "Pos": "MF",
+      "Team": "Burnley",
+      "Born": 2004
+    },
+    {
+      "Player": "Ethan Ampadu",
+      "Pos": "MF",
+      "Team": "Leeds United",
+      "Born": 2000
+    },
+    {
+      "Player": "Joachim Andersen",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1996
+    },
+    {
+      "Player": "Elliot Anderson",
+      "Pos": "MF",
+      "Team": "Nottingham Forest",
+      "Born": 2002
+    },
+    {
+      "Player": "André",
+      "Pos": "MF",
+      "Team": "Wolves",
+      "Born": 2001
+    },
+    {
+      "Player": "Jaidon Anthony",
+      "Pos": "MF,FW",
+      "Team": "Burnley",
+      "Born": 1999
+    },
+    {
+      "Player": "Alphonse Areola",
+      "Pos": "GK",
+      "Team": "West Ham United",
+      "Born": 1993
+    },
+    {
+      "Player": "Jhon Arias",
+      "Pos": "FW,MF",
+      "Team": "Wolves",
+      "Born": 1997
+    },
+    {
+      "Player": "Harrison Armstrong",
+      "Pos": "MF",
+      "Team": "Everton",
+      "Born": 2007
+    },
+    {
+      "Player": "Tolu Arokodare",
+      "Pos": "FW",
+      "Team": "Wolves",
+      "Born": 2000
+    },
+    {
+      "Player": "Taiwo Awoniyi",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 1997
+    },
+    {
+      "Player": "Yasin Ayari",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 2003
+    },
+    {
+      "Player": "Benoît Badiashile",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 2001
+    },
+    {
+      "Player": "Dilane Bakwa",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2002
+    },
+    {
+      "Player": "Carlos Baleba",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 2004
+    },
+    {
+      "Player": "Daniel Ballard",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 1999
+    },
+    {
+      "Player": "Ross Barkley",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 1993
+    },
+    {
+      "Player": "Ashley Barnes",
+      "Pos": "FW",
+      "Team": "Burnley",
+      "Born": 1989
+    },
+    {
+      "Player": "Harvey Barnes",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 1997
+    },
+    {
+      "Player": "Thierno Barry",
+      "Pos": "FW",
+      "Team": "Everton",
+      "Born": 2002
+    },
+    {
+      "Player": "Calvin Bassey",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1999
+    },
+    {
+      "Player": "Altay Bayındır",
+      "Pos": "GK",
+      "Team": "Manchester Utd",
+      "Born": 1998
+    },
+    {
+      "Player": "Jean-Ricner Bellegarde",
+      "Pos": "MF,FW",
+      "Team": "Wolves",
+      "Born": 1998
+    },
+    {
+      "Player": "Rodrigo Bentancur",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1997
+    },
+    {
+      "Player": "Sander Berge",
+      "Pos": "MF",
+      "Team": "Fulham",
+      "Born": 1998
+    },
+    {
+      "Player": "Lucas Bergvall",
+      "Pos": "MF,FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 2006
+    },
+    {
+      "Player": "Beto",
+      "Pos": "FW",
+      "Team": "Everton",
+      "Born": 1998
+    },
+    {
+      "Player": "Jaka Bijol",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1999
+    },
+    {
+      "Player": "Yves Bissouma",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1996
+    },
+    {
+      "Player": "Marco Bizot",
+      "Pos": "GK",
+      "Team": "Aston Villa",
+      "Born": 1991
+    },
+    {
+      "Player": "Oscar Bobb",
+      "Pos": "MF,FW",
+      "Team": "Manchester City",
+      "Born": 2003
+    },
+    {
+      "Player": "Lamare Bogarde",
+      "Pos": "MF,DF",
+      "Team": "Aston Villa",
+      "Born": 2004
+    },
+    {
+      "Player": "Jayden Bogle",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 2000
+    },
+    {
+      "Player": "Sebastiaan Bornauw",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1999
+    },
+    {
+      "Player": "Olivier Boscagli",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 1997
+    },
+    {
+      "Player": "Sven Botman",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 2000
+    },
+    {
+      "Player": "Jarrod Bowen",
+      "Pos": "FW,MF",
+      "Team": "West Ham United",
+      "Born": 1996
+    },
+    {
+      "Player": "Conor Bradley",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 2003
+    },
+    {
+      "Player": "Brian Brobbey",
+      "Pos": "FW",
+      "Team": "Sunderland",
+      "Born": 2002
+    },
+    {
+      "Player": "Armando Broja",
+      "Pos": "FW",
+      "Team": "Burnley",
+      "Born": 2001
+    },
+    {
+      "Player": "David Brooks",
+      "Pos": "FW,MF",
+      "Team": "Bournemouth",
+      "Born": 1997
+    },
+    {
+      "Player": "Jacob Bruun Larsen",
+      "Pos": "FW,MF",
+      "Team": "Burnley",
+      "Born": 1998
+    },
+    {
+      "Player": "Emi Buendía",
+      "Pos": "MF,FW",
+      "Team": "Aston Villa",
+      "Born": 1996
+    },
+    {
+      "Player": "Hugo Bueno",
+      "Pos": "DF,MF",
+      "Team": "Wolves",
+      "Born": 2002
+    },
+    {
+      "Player": "Santiago Bueno",
+      "Pos": "DF",
+      "Team": "Wolves",
+      "Born": 1998
+    },
+    {
+      "Player": "Facundo Buonanotte",
+      "Pos": "MF",
+      "Team": "Chelsea",
+      "Born": 2004
+    },
+    {
+      "Player": "Dan Burn",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 1992
+    },
+    {
+      "Player": "Bradley Burrowes",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 2008
+    },
+    {
+      "Player": "Sam Byram",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1993
+    },
+    {
+      "Player": "Moisés Caicedo",
+      "Pos": "MF",
+      "Team": "Chelsea",
+      "Born": 2001
+    },
+    {
+      "Player": "Tom Cairney",
+      "Pos": "MF",
+      "Team": "Fulham",
+      "Born": 1991
+    },
+    {
+      "Player": "Riccardo Calafiori",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2002
+    },
+    {
+      "Player": "Dominic Calvert-Lewin",
+      "Pos": "FW",
+      "Team": "Leeds United",
+      "Born": 1997
+    },
+    {
+      "Player": "Jaydee Canvot",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 2006
+    },
+    {
+      "Player": "Fabio Carvalho",
+      "Pos": "FW,MF",
+      "Team": "Brentford",
+      "Born": 2002
+    },
+    {
+      "Player": "Casemiro",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 1992
+    },
+    {
+      "Player": "Matty Cash",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1997
+    },
+    {
+      "Player": "Timothy Castagne",
+      "Pos": "DF,FW",
+      "Team": "Fulham",
+      "Born": 1995
+    },
+    {
+      "Player": "Valentín Castellanos",
+      "Pos": "FW",
+      "Team": "West Ham United",
+      "Born": 1998
+    },
+    {
+      "Player": "Trevoh Chalobah",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 1999
+    },
+    {
+      "Player": "Rayan Cherki",
+      "Pos": "MF,FW",
+      "Team": "Manchester City",
+      "Born": 2003
+    },
+    {
+      "Player": "Federico Chiesa",
+      "Pos": "FW,MF",
+      "Team": "Liverpool",
+      "Born": 1997
+    },
+    {
+      "Player": "Tawanda Chirewa",
+      "Pos": "MF,FW",
+      "Team": "Wolves",
+      "Born": 2003
+    },
+    {
+      "Player": "Ryan Christie",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 1995
+    },
+    {
+      "Player": "Samuel Chukwueze",
+      "Pos": "FW",
+      "Team": "Fulham",
+      "Born": 1999
+    },
+    {
+      "Player": "Dennis Cirkin",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 2002
+    },
+    {
+      "Player": "Nathaniel Clyne",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 1991
+    },
+    {
+      "Player": "Séamus Coleman",
+      "Pos": "DF,FW",
+      "Team": "Everton",
+      "Born": 1988
+    },
+    {
+      "Player": "Nathan Collins",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 2001
+    },
+    {
+      "Player": "Lewis Cook",
+      "Pos": "MF,DF",
+      "Team": "Bournemouth",
+      "Born": 1997
+    },
+    {
+      "Player": "Diego Coppola",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 2003
+    },
+    {
+      "Player": "Marc Cucurella",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 1998
+    },
+    {
+      "Player": "Jorge Cuenca",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1999
+    },
+    {
+      "Player": "Josh Cullen",
+      "Pos": "MF",
+      "Team": "Burnley",
+      "Born": 1996
+    },
+    {
+      "Player": "Jair Cunha",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2005
+    },
+    {
+      "Player": "Matheus Cunha",
+      "Pos": "MF,FW",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "Diogo Dalot",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "Mikkel Damsgaard",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 2000
+    },
+    {
+      "Player": "Kevin Danso",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1998
+    },
+    {
+      "Player": "Karl Darlow",
+      "Pos": "GK",
+      "Team": "Leeds United",
+      "Born": 1990
+    },
+    {
+      "Player": "Ben Davies",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1993
+    },
+    {
+      "Player": "Maxim De Cuyper",
+      "Pos": "DF,FW",
+      "Team": "Brighton",
+      "Born": 2000
+    },
+    {
+      "Player": "Liam Delap",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2003
+    },
+    {
+      "Player": "Sepp van den Berg",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 2001
+    },
+    {
+      "Player": "Justin Devenny",
+      "Pos": "MF,DF",
+      "Team": "Crystal Palace",
+      "Born": 2003
+    },
+    {
+      "Player": "Kiernan Dewsbury-Hall",
+      "Pos": "MF",
+      "Team": "Everton",
+      "Born": 1998
+    },
+    {
+      "Player": "Bafodé Diakité",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 2001
+    },
+    {
+      "Player": "Amad Diallo",
+      "Pos": "DF,MF",
+      "Team": "Manchester Utd",
+      "Born": 2002
+    },
+    {
+      "Player": "Habib Diarra",
+      "Pos": "MF",
+      "Team": "Sunderland",
+      "Born": 2004
+    },
+    {
+      "Player": "Rúben Dias",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 1997
+    },
+    {
+      "Player": "Tyler Dibling",
+      "Pos": "FW",
+      "Team": "Everton",
+      "Born": 2006
+    },
+    {
+      "Player": "Lucas Digne",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1993
+    },
+    {
+      "Player": "Issa Diop",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1997
+    },
+    {
+      "Player": "El Hadji Malick Diouf",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 2004
+    },
+    {
+      "Player": "Matt Doherty",
+      "Pos": "DF",
+      "Team": "Wolves",
+      "Born": 1992
+    },
+    {
+      "Player": "Jeremy Doku",
+      "Pos": "MF,FW",
+      "Team": "Manchester City",
+      "Born": 2002
+    },
+    {
+      "Player": "Nicolás Domínguez",
+      "Pos": "MF,FW",
+      "Team": "Nottingham Forest",
+      "Born": 1998
+    },
+    {
+      "Player": "Gianluigi Donnarumma",
+      "Pos": "GK",
+      "Team": "Manchester City",
+      "Born": 1999
+    },
+    {
+      "Player": "Romelle Donovan",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 2006
+    },
+    {
+      "Player": "Patrick Dorgu",
+      "Pos": "DF,FW",
+      "Team": "Manchester Utd",
+      "Born": 2004
+    },
+    {
+      "Player": "Max Dowman",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 2009
+    },
+    {
+      "Player": "Radu Drăgușin",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2002
+    },
+    {
+      "Player": "Joél Drakes-Thomas",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 2009
+    },
+    {
+      "Player": "Martin Dúbravka",
+      "Pos": "GK",
+      "Team": "Burnley",
+      "Born": 1989
+    },
+    {
+      "Player": "Lewis Dunk",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 1991
+    },
+    {
+      "Player": "George Earthy",
+      "Pos": "FW",
+      "Team": "West Ham United",
+      "Born": 2004
+    },
+    {
+      "Player": "Odsonne Édouard",
+      "Pos": "FW",
+      "Team": "Crystal Palace",
+      "Born": 1998
+    },
+    {
+      "Player": "Marcus Edwards",
+      "Pos": "FW,MF",
+      "Team": "Burnley",
+      "Born": 1998
+    },
+    {
+      "Player": "Hjalmar Ekdal",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 1998
+    },
+    {
+      "Player": "Hugo Ekitike",
+      "Pos": "FW",
+      "Team": "Liverpool",
+      "Born": 2002
+    },
+    {
+      "Player": "Anthony Elanga",
+      "Pos": "FW,MF",
+      "Team": "Newcastle United",
+      "Born": 2002
+    },
+    {
+      "Player": "Harvey Elliott",
+      "Pos": "MF,FW",
+      "Team": "Liverpool",
+      "Born": 2003
+    },
+    {
+      "Player": "Harvey Elliott",
+      "Pos": "MF,FW",
+      "Team": "Aston Villa",
+      "Born": 2003
+    },
+    {
+      "Player": "Wataru Endo",
+      "Pos": "MF,DF",
+      "Team": "Liverpool",
+      "Born": 1993
+    },
+    {
+      "Player": "Romain Esse",
+      "Pos": "FW,MF",
+      "Team": "Crystal Palace",
+      "Born": 2005
+    },
+    {
+      "Player": "Maxime Estève",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 2002
+    },
+    {
+      "Player": "Evanilson",
+      "Pos": "FW",
+      "Team": "Bournemouth",
+      "Born": 1999
+    },
+    {
+      "Player": "Eberechi Eze",
+      "Pos": "MF,FW",
+      "Team": "Arsenal",
+      "Born": 1998
+    },
+    {
+      "Player": "Eberechi Eze",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 1998
+    },
+    {
+      "Player": "Bruno Fernandes",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 1994
+    },
+    {
+      "Player": "Mateus Fernandes",
+      "Pos": "MF,FW",
+      "Team": "West Ham United",
+      "Born": 2004
+    },
+    {
+      "Player": "Enzo Fernández",
+      "Pos": "MF",
+      "Team": "Chelsea",
+      "Born": 2001
+    },
+    {
+      "Player": "Zian Flemming",
+      "Pos": "FW",
+      "Team": "Burnley",
+      "Born": 1998
+    },
+    {
+      "Player": "Jack Fletcher",
+      "Pos": "MF,FW",
+      "Team": "Manchester Utd",
+      "Born": 2007
+    },
+    {
+      "Player": "Phil Foden",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 2000
+    },
+    {
+      "Player": "Wesley Fofana",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 2000
+    },
+    {
+      "Player": "Lyle Foster",
+      "Pos": "FW",
+      "Team": "Burnley",
+      "Born": 2000
+    },
+    {
+      "Player": "Tyler Fredricson",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 2005
+    },
+    {
+      "Player": "Jeremie Frimpong",
+      "Pos": "FW,DF",
+      "Team": "Liverpool",
+      "Born": 2000
+    },
+    {
+      "Player": "Niclas Füllkrug",
+      "Pos": "FW",
+      "Team": "West Ham United",
+      "Born": 1993
+    },
+    {
+      "Player": "Cody Gakpo",
+      "Pos": "FW",
+      "Team": "Liverpool",
+      "Born": 1999
+    },
+    {
+      "Player": "Conor Gallagher",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2000
+    },
+    {
+      "Player": "Idrissa Gana Gueye",
+      "Pos": "MF",
+      "Team": "Everton",
+      "Born": 1989
+    },
+    {
+      "Player": "Ben Gannon-Doak",
+      "Pos": "FW",
+      "Team": "Bournemouth",
+      "Born": 2005
+    },
+    {
+      "Player": "Andrés García",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 2003
+    },
+    {
+      "Player": "Alejandro Garnacho",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2004
+    },
+    {
+      "Player": "James Garner",
+      "Pos": "MF,DF",
+      "Team": "Everton",
+      "Born": 2001
+    },
+    {
+      "Player": "Lutsharel Geertruida",
+      "Pos": "DF,MF",
+      "Team": "Sunderland",
+      "Born": 2000
+    },
+    {
+      "Player": "Tyrique George",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2006
+    },
+    {
+      "Player": "Morgan Gibbs-White",
+      "Pos": "MF,FW",
+      "Team": "Nottingham Forest",
+      "Born": 2000
+    },
+    {
+      "Player": "Jamie Gittens",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2004
+    },
+    {
+      "Player": "Wilfried Gnonto",
+      "Pos": "FW,MF",
+      "Team": "Leeds United",
+      "Born": 2003
+    },
+    {
+      "Player": "João Gomes",
+      "Pos": "MF",
+      "Team": "Wolves",
+      "Born": 2001
+    },
+    {
+      "Player": "Rodrigo Gomes",
+      "Pos": "FW,DF",
+      "Team": "Wolves",
+      "Born": 2003
+    },
+    {
+      "Player": "Toti Gomes",
+      "Pos": "DF",
+      "Team": "Wolves",
+      "Born": 1999
+    },
+    {
+      "Player": "Diego Gómez",
+      "Pos": "MF,FW",
+      "Team": "Brighton",
+      "Born": 2003
+    },
+    {
+      "Player": "Joe Gomez",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 1997
+    },
+    {
+      "Player": "Nicolás González",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 2002
+    },
+    {
+      "Player": "Anthony Gordon",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 2001
+    },
+    {
+      "Player": "Ryan Gravenberch",
+      "Pos": "MF",
+      "Team": "Liverpool",
+      "Born": 2002
+    },
+    {
+      "Player": "Archie Gray",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2006
+    },
+    {
+      "Player": "Jack Grealish",
+      "Pos": "FW",
+      "Team": "Everton",
+      "Born": 1995
+    },
+    {
+      "Player": "Pascal Groß",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 1991
+    },
+    {
+      "Player": "Brajan Gruda",
+      "Pos": "MF,FW",
+      "Team": "Brighton",
+      "Born": 2004
+    },
+    {
+      "Player": "Ilia Gruev",
+      "Pos": "MF",
+      "Team": "Leeds United",
+      "Born": 2000
+    },
+    {
+      "Player": "Gabriel Gudmundsson",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1999
+    },
+    {
+      "Player": "Marc Guéhi",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 2000
+    },
+    {
+      "Player": "Evann Guessand",
+      "Pos": "FW",
+      "Team": "Aston Villa",
+      "Born": 2001
+    },
+    {
+      "Player": "Luis Guilherme",
+      "Pos": "FW,MF",
+      "Team": "West Ham United",
+      "Born": 2006
+    },
+    {
+      "Player": "Bruno Guimarães",
+      "Pos": "MF",
+      "Team": "Newcastle United",
+      "Born": 1997
+    },
+    {
+      "Player": "Marc Guiu",
+      "Pos": "FW",
+      "Team": "Sunderland",
+      "Born": 2006
+    },
+    {
+      "Player": "Marc Guiu",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2006
+    },
+    {
+      "Player": "Malo Gusto",
+      "Pos": "DF,MF",
+      "Team": "Chelsea",
+      "Born": 2003
+    },
+    {
+      "Player": "Joško Gvardiol",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 2002
+    },
+    {
+      "Player": "Viktor Gyökeres",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 1998
+    },
+    {
+      "Player": "Erling Haaland",
+      "Pos": "FW",
+      "Team": "Manchester City",
+      "Born": 2000
+    },
+    {
+      "Player": "Lewis Hall",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 2004
+    },
+    {
+      "Player": "Jack Harrison",
+      "Pos": "FW,DF",
+      "Team": "Leeds United",
+      "Born": 1996
+    },
+    {
+      "Player": "Quilindschy Hartman",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 2001
+    },
+    {
+      "Player": "Jorrel Hato",
+      "Pos": "DF",
+      "Team": "Chelsea",
+      "Born": 2006
+    },
+    {
+      "Player": "Kai Havertz",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 1999
+    },
+    {
+      "Player": "Ayden Heaven",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 2006
+    },
+    {
+      "Player": "Jan Paul van Hecke",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 2000
+    },
+    {
+      "Player": "Hwang Hee-chan",
+      "Pos": "FW,MF",
+      "Team": "Wolves",
+      "Born": 1996
+    },
+    {
+      "Player": "George Hemmings",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 2007
+    },
+    {
+      "Player": "Dean Henderson",
+      "Pos": "GK",
+      "Team": "Crystal Palace",
+      "Born": 1997
+    },
+    {
+      "Player": "Jordan Henderson",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 1990
+    },
+    {
+      "Player": "Rico Henry",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 1997
+    },
+    {
+      "Player": "Mads Hermansen",
+      "Pos": "GK",
+      "Team": "West Ham United",
+      "Born": 2000
+    },
+    {
+      "Player": "Aaron Hickey",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 2002
+    },
+    {
+      "Player": "James Hill",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 2002
+    },
+    {
+      "Player": "Piero Hincapié",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2002
+    },
+    {
+      "Player": "Jack Hinshelwood",
+      "Pos": "MF,DF",
+      "Team": "Brighton",
+      "Born": 2005
+    },
+    {
+      "Player": "Ki-Jana Hoever",
+      "Pos": "DF,MF",
+      "Team": "Wolves",
+      "Born": 2002
+    },
+    {
+      "Player": "Callum Hudson-Odoi",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2000
+    },
+    {
+      "Player": "Will Hughes",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 1995
+    },
+    {
+      "Player": "Trai Hume",
+      "Pos": "DF,MF",
+      "Team": "Sunderland",
+      "Born": 2002
+    },
+    {
+      "Player": "Bashir Humphreys",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 2003
+    },
+    {
+      "Player": "Omari Hutchinson",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2003
+    },
+    {
+      "Player": "Igor",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1998
+    },
+    {
+      "Player": "Tim Iroegbunam",
+      "Pos": "MF",
+      "Team": "Everton",
+      "Born": 2003
+    },
+    {
+      "Player": "Andy Irving",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 2000
+    },
+    {
+      "Player": "Alexander Isak",
+      "Pos": "FW",
+      "Team": "Liverpool",
+      "Born": 1999
+    },
+    {
+      "Player": "Wilson Isidor",
+      "Pos": "FW",
+      "Team": "Sunderland",
+      "Born": 2000
+    },
+    {
+      "Player": "Alex Iwobi",
+      "Pos": "MF,FW",
+      "Team": "Fulham",
+      "Born": 1996
+    },
+    {
+      "Player": "Daniel James",
+      "Pos": "FW",
+      "Team": "Leeds United",
+      "Born": 1997
+    },
+    {
+      "Player": "Reece James",
+      "Pos": "DF,MF",
+      "Team": "Chelsea",
+      "Born": 1999
+    },
+    {
+      "Player": "Vitaly Janelt",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 1998
+    },
+    {
+      "Player": "Mathias Jensen",
+      "Pos": "MF,FW",
+      "Team": "Brentford",
+      "Born": 1996
+    },
+    {
+      "Player": "Gabriel Jesus",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 1997
+    },
+    {
+      "Player": "Igor Jesus",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2001
+    },
+    {
+      "Player": "Álex Jiménez",
+      "Pos": "DF,FW",
+      "Team": "Bournemouth",
+      "Born": 2005
+    },
+    {
+      "Player": "Raúl Jiménez",
+      "Pos": "FW",
+      "Team": "Fulham",
+      "Born": 1991
+    },
+    {
+      "Player": "Jamaldeen Jimoh",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 2006
+    },
+    {
+      "Player": "João Pedro",
+      "Pos": "FW,MF",
+      "Team": "Chelsea",
+      "Born": 2001
+    },
+    {
+      "Player": "Joelinton",
+      "Pos": "MF",
+      "Team": "Newcastle United",
+      "Born": 1996
+    },
+    {
+      "Player": "John",
+      "Pos": "GK",
+      "Team": "Nottingham Forest",
+      "Born": 1996
+    },
+    {
+      "Player": "Brennan Johnson",
+      "Pos": "FW,MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2001
+    },
+    {
+      "Player": "Brennan Johnson",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 2001
+    },
+    {
+      "Player": "Sam Johnstone",
+      "Pos": "GK",
+      "Team": "Wolves",
+      "Born": 1993
+    },
+    {
+      "Player": "Curtis Jones",
+      "Pos": "MF",
+      "Team": "Liverpool",
+      "Born": 2001
+    },
+    {
+      "Player": "Eli Junior Kroupi",
+      "Pos": "FW,MF",
+      "Team": "Bournemouth",
+      "Born": 2006
+    },
+    {
+      "Player": "Hamed Junior Traorè",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 2000
+    },
+    {
+      "Player": "James Justin",
+      "Pos": "DF,FW",
+      "Team": "Leeds United",
+      "Born": 1998
+    },
+    {
+      "Player": "Filip Jørgensen",
+      "Pos": "GK",
+      "Team": "Chelsea",
+      "Born": 2002
+    },
+    {
+      "Player": "Ferdi Kadioglu",
+      "Pos": "DF,FW",
+      "Team": "Brighton",
+      "Born": 1999
+    },
+    {
+      "Player": "Sasa Kalajdzic",
+      "Pos": "FW",
+      "Team": "Wolves",
+      "Born": 1997
+    },
+    {
+      "Player": "Arnaud Kalimuendo",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2002
+    },
+    {
+      "Player": "Daichi Kamada",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 1996
+    },
+    {
+      "Player": "Boubacar Kamara",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 1999
+    },
+    {
+      "Player": "Mohamadou Kanté",
+      "Pos": "FW,MF",
+      "Team": "West Ham United",
+      "Born": 2005
+    },
+    {
+      "Player": "Michael Kayode",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 2004
+    },
+    {
+      "Player": "Michael Keane",
+      "Pos": "DF",
+      "Team": "Everton",
+      "Born": 1993
+    },
+    {
+      "Player": "Caoimhín Kelleher",
+      "Pos": "GK",
+      "Team": "Brentford",
+      "Born": 1998
+    },
+    {
+      "Player": "Milos Kerkez",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 2003
+    },
+    {
+      "Player": "Kevin",
+      "Pos": "FW,MF",
+      "Team": "Fulham",
+      "Born": 2003
+    },
+    {
+      "Player": "Abdukodir Khusanov",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 2004
+    },
+    {
+      "Player": "Max Kilman",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1997
+    },
+    {
+      "Player": "Joshua King",
+      "Pos": "MF,FW",
+      "Team": "Fulham",
+      "Born": 2007
+    },
+    {
+      "Player": "Justin Kluivert",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 1999
+    },
+    {
+      "Player": "Joe Knight",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 2005
+    },
+    {
+      "Player": "Randal Kolo Muani",
+      "Pos": "FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 1998
+    },
+    {
+      "Player": "Ibrahima Konaté",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 1999
+    },
+    {
+      "Player": "Ezri Konsa",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1997
+    },
+    {
+      "Player": "Charalampos Kostoulas",
+      "Pos": "FW,MF",
+      "Team": "Brighton",
+      "Born": 2007
+    },
+    {
+      "Player": "Mateo Kovačić",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 1994
+    },
+    {
+      "Player": "Emil Krafth",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 1994
+    },
+    {
+      "Player": "Ladislav Krejčí",
+      "Pos": "DF,MF",
+      "Team": "Wolves",
+      "Born": 1999
+    },
+    {
+      "Player": "Mohammed Kudus",
+      "Pos": "FW,MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2000
+    },
+    {
+      "Player": "Jonah Kusi-Asare",
+      "Pos": "FW",
+      "Team": "Fulham",
+      "Born": 2007
+    },
+    {
+      "Player": "Shea Lacey",
+      "Pos": "FW,DF",
+      "Team": "Manchester Utd",
+      "Born": 2007
+    },
+    {
+      "Player": "Maxence Lacroix",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 2000
+    },
+    {
+      "Player": "Senne Lammens",
+      "Pos": "GK",
+      "Team": "Manchester Utd",
+      "Born": 2002
+    },
+    {
+      "Player": "Jamaal Lascelles",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 1993
+    },
+    {
+      "Player": "Josh Laurent",
+      "Pos": "DF,MF",
+      "Team": "Burnley",
+      "Born": 1995
+    },
+    {
+      "Player": "Roméo Lavia",
+      "Pos": "MF",
+      "Team": "Chelsea",
+      "Born": 2004
+    },
+    {
+      "Player": "Enzo Le Fée",
+      "Pos": "MF,FW",
+      "Team": "Sunderland",
+      "Born": 2000
+    },
+    {
+      "Player": "Bernd Leno",
+      "Pos": "GK",
+      "Team": "Fulham",
+      "Born": 1992
+    },
+    {
+      "Player": "Jefferson Lerma",
+      "Pos": "MF,DF",
+      "Team": "Crystal Palace",
+      "Born": 1994
+    },
+    {
+      "Player": "Rico Lewis",
+      "Pos": "DF,MF",
+      "Team": "Manchester City",
+      "Born": 2004
+    },
+    {
+      "Player": "Keane Lewis-Potter",
+      "Pos": "FW,DF",
+      "Team": "Brentford",
+      "Born": 2001
+    },
+    {
+      "Player": "Myles Lewis-Skelly",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2006
+    },
+    {
+      "Player": "Matthijs de Ligt",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "Pedro Lima",
+      "Pos": "MF",
+      "Team": "Wolves",
+      "Born": 2006
+    },
+    {
+      "Player": "Victor Lindelöf",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1994
+    },
+    {
+      "Player": "Valentino Livramento",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 2002
+    },
+    {
+      "Player": "Sean Longstaff",
+      "Pos": "MF",
+      "Team": "Leeds United",
+      "Born": 1997
+    },
+    {
+      "Player": "Fer López",
+      "Pos": "MF,FW",
+      "Team": "Wolves",
+      "Born": 2004
+    },
+    {
+      "Player": "Lucas",
+      "Pos": "DF,MF",
+      "Team": "Burnley",
+      "Born": 2001
+    },
+    {
+      "Player": "Florentino Luís",
+      "Pos": "MF",
+      "Team": "Burnley",
+      "Born": 1999
+    },
+    {
+      "Player": "Douglas Luiz",
+      "Pos": "MF",
+      "Team": "Nottingham Forest",
+      "Born": 1998
+    },
+    {
+      "Player": "Saša Lukić",
+      "Pos": "MF",
+      "Team": "Fulham",
+      "Born": 1996
+    },
+    {
+      "Player": "Ian Maatsen",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 2002
+    },
+    {
+      "Player": "Alexis Mac Allister",
+      "Pos": "MF",
+      "Team": "Liverpool",
+      "Born": 1998
+    },
+    {
+      "Player": "Noni Madueke",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 2002
+    },
+    {
+      "Player": "Gabriel Magalhães",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 1997
+    },
+    {
+      "Player": "Soungoutou Magassa",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 2003
+    },
+    {
+      "Player": "Harry Maguire",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1993
+    },
+    {
+      "Player": "Kobbie Mainoo",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 2005
+    },
+    {
+      "Player": "Tyrell Malacia",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "Donyell Malen",
+      "Pos": "FW",
+      "Team": "Aston Villa",
+      "Born": 1999
+    },
+    {
+      "Player": "Giorgi Mamardashvili",
+      "Pos": "GK",
+      "Team": "Liverpool",
+      "Born": 2000
+    },
+    {
+      "Player": "Reinildo Mandava",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 1994
+    },
+    {
+      "Player": "Mateus Mane",
+      "Pos": "MF",
+      "Team": "Wolves",
+      "Born": 2007
+    },
+    {
+      "Player": "Bendito Mantato",
+      "Pos": "FW",
+      "Team": "Manchester Utd",
+      "Born": 2008
+    },
+    {
+      "Player": "Omar Marmoush",
+      "Pos": "FW,MF",
+      "Team": "Manchester City",
+      "Born": 1999
+    },
+    {
+      "Player": "Callum Marshall",
+      "Pos": "FW",
+      "Team": "West Ham United",
+      "Born": 2004
+    },
+    {
+      "Player": "Gabriel Martinelli",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 2001
+    },
+    {
+      "Player": "Emiliano Martínez",
+      "Pos": "GK",
+      "Team": "Aston Villa",
+      "Born": 1992
+    },
+    {
+      "Player": "Lisandro Martínez",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1998
+    },
+    {
+      "Player": "Arthur Masuaku",
+      "Pos": "DF,MF",
+      "Team": "Sunderland",
+      "Born": 1993
+    },
+    {
+      "Player": "Pape Matar Sarr",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2002
+    },
+    {
+      "Player": "Jean-Philippe Mateta",
+      "Pos": "FW",
+      "Team": "Crystal Palace",
+      "Born": 1997
+    },
+    {
+      "Player": "Konstantinos Mavropanos",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1997
+    },
+    {
+      "Player": "Eliezer Mayenda",
+      "Pos": "FW",
+      "Team": "Sunderland",
+      "Born": 2005
+    },
+    {
+      "Player": "Ezra Mayers",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 2007
+    },
+    {
+      "Player": "Noussair Mazraoui",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1997
+    },
+    {
+      "Player": "Bryan Mbeumo",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "James Mcatee",
+      "Pos": "MF,FW",
+      "Team": "Nottingham Forest",
+      "Born": 2002
+    },
+    {
+      "Player": "John McGinn",
+      "Pos": "FW,MF",
+      "Team": "Aston Villa",
+      "Born": 1994
+    },
+    {
+      "Player": "Dwight McNeil",
+      "Pos": "FW,MF",
+      "Team": "Everton",
+      "Born": 1999
+    },
+    {
+      "Player": "Hannibal Mejbri",
+      "Pos": "MF",
+      "Team": "Burnley",
+      "Born": 2003
+    },
+    {
+      "Player": "Mikel Merino",
+      "Pos": "MF,FW",
+      "Team": "Arsenal",
+      "Born": 1996
+    },
+    {
+      "Player": "Antoni Milambo",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 2005
+    },
+    {
+      "Player": "Nikola Milenković",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 1997
+    },
+    {
+      "Player": "Lewis Miley",
+      "Pos": "MF,DF",
+      "Team": "Newcastle United",
+      "Born": 2006
+    },
+    {
+      "Player": "James Milner",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 1986
+    },
+    {
+      "Player": "Veljko Milosavljević",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 2007
+    },
+    {
+      "Player": "Tyrone Mings",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1993
+    },
+    {
+      "Player": "Yankuba Minteh",
+      "Pos": "FW",
+      "Team": "Brighton",
+      "Born": 2004
+    },
+    {
+      "Player": "Tyrick Mitchell",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 1999
+    },
+    {
+      "Player": "Kaoru Mitoma",
+      "Pos": "FW",
+      "Team": "Brighton",
+      "Born": 1997
+    },
+    {
+      "Player": "Morato",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2001
+    },
+    {
+      "Player": "Cristhian Mosquera",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2004
+    },
+    {
+      "Player": "Yerson Mosquera",
+      "Pos": "DF",
+      "Team": "Wolves",
+      "Born": 2001
+    },
+    {
+      "Player": "Mason Mount",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 1999
+    },
+    {
+      "Player": "Divine Mukasa",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 2007
+    },
+    {
+      "Player": "Nordi Mukiele",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 1997
+    },
+    {
+      "Player": "Romaine Mundle",
+      "Pos": "FW,MF",
+      "Team": "Sunderland",
+      "Born": 2003
+    },
+    {
+      "Player": "Marshall Munetsi",
+      "Pos": "MF,FW",
+      "Team": "Wolves",
+      "Born": 1996
+    },
+    {
+      "Player": "Rodrigo Muniz",
+      "Pos": "FW",
+      "Team": "Fulham",
+      "Born": 2001
+    },
+    {
+      "Player": "Daniel Muñoz",
+      "Pos": "DF,MF",
+      "Team": "Crystal Palace",
+      "Born": 1996
+    },
+    {
+      "Player": "Murillo",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2002
+    },
+    {
+      "Player": "Jacob Murphy",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 1995
+    },
+    {
+      "Player": "Vitaliy Mykolenko",
+      "Pos": "DF",
+      "Team": "Everton",
+      "Born": 1999
+    },
+    {
+      "Player": "David Møller Wolfe",
+      "Pos": "DF,MF",
+      "Team": "Wolves",
+      "Born": 2002
+    },
+    {
+      "Player": "Iliman Ndiaye",
+      "Pos": "FW",
+      "Team": "Everton",
+      "Born": 2000
+    },
+    {
+      "Player": "Dan Ndoye",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 2000
+    },
+    {
+      "Player": "Dan Neil",
+      "Pos": "MF",
+      "Team": "Sunderland",
+      "Born": 2001
+    },
+    {
+      "Player": "Reiss Nelson",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 1999
+    },
+    {
+      "Player": "Pedro Neto",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2000
+    },
+    {
+      "Player": "Rio Ngumoha",
+      "Pos": "FW,MF",
+      "Team": "Liverpool",
+      "Born": 2008
+    },
+    {
+      "Player": "Eddie Nketiah",
+      "Pos": "MF,FW",
+      "Team": "Crystal Palace",
+      "Born": 1999
+    },
+    {
+      "Player": "Lukas Nmecha",
+      "Pos": "FW",
+      "Team": "Leeds United",
+      "Born": 1998
+    },
+    {
+      "Player": "Matheus Nunes",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 1998
+    },
+    {
+      "Player": "Ethan Nwaneri",
+      "Pos": "MF",
+      "Team": "Arsenal",
+      "Born": 2007
+    },
+    {
+      "Player": "Trey Nyoni",
+      "Pos": "FW",
+      "Team": "Liverpool",
+      "Born": 2007
+    },
+    {
+      "Player": "Christian Nørgaard",
+      "Pos": "MF",
+      "Team": "Arsenal",
+      "Born": 1994
+    },
+    {
+      "Player": "Jake O'Brien",
+      "Pos": "DF",
+      "Team": "Everton",
+      "Born": 2001
+    },
+    {
+      "Player": "Luke O'Nien",
+      "Pos": "DF,MF",
+      "Team": "Sunderland",
+      "Born": 1994
+    },
+    {
+      "Player": "Matt O'Riley",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 2000
+    },
+    {
+      "Player": "Wilson Odobert",
+      "Pos": "FW,MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2004
+    },
+    {
+      "Player": "Noah Okafor",
+      "Pos": "FW,MF",
+      "Team": "Leeds United",
+      "Born": 2000
+    },
+    {
+      "Player": "Amadou Onana",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 2001
+    },
+    {
+      "Player": "Frank Onyeka",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 1998
+    },
+    {
+      "Player": "Nehemiah Oriola",
+      "Pos": "MF",
+      "Team": "Brighton",
+      "Born": 2007
+    },
+    {
+      "Player": "William Osula",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 2003
+    },
+    {
+      "Player": "Dango Ouattara",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 2002
+    },
+    {
+      "Player": "Nico O’Reilly",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 2005
+    },
+    {
+      "Player": "Pablo",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 2004
+    },
+    {
+      "Player": "João Palhinha",
+      "Pos": "MF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1995
+    },
+    {
+      "Player": "Cole Palmer",
+      "Pos": "MF,FW",
+      "Team": "Chelsea",
+      "Born": 2002
+    },
+    {
+      "Player": "Lucas Paquetá",
+      "Pos": "MF,FW",
+      "Team": "West Ham United",
+      "Born": 1997
+    },
+    {
+      "Player": "Nathan Patterson",
+      "Pos": "DF",
+      "Team": "Everton",
+      "Born": 2001
+    },
+    {
+      "Player": "Myles Peart-Harris",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 2002
+    },
+    {
+      "Player": "Lucas Perri",
+      "Pos": "GK",
+      "Team": "Leeds United",
+      "Born": 1997
+    },
+    {
+      "Player": "Đorđe Petrović",
+      "Pos": "GK",
+      "Team": "Bournemouth",
+      "Born": 1999
+    },
+    {
+      "Player": "Jordan Pickford",
+      "Pos": "GK",
+      "Team": "Everton",
+      "Born": 1994
+    },
+    {
+      "Player": "Ethan Pinnock",
+      "Pos": "DF",
+      "Team": "Brentford",
+      "Born": 1993
+    },
+    {
+      "Player": "Yeremi Pino",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 2002
+    },
+    {
+      "Player": "Joël Piroe",
+      "Pos": "FW,MF",
+      "Team": "Leeds United",
+      "Born": 1999
+    },
+    {
+      "Player": "Nick Pope",
+      "Pos": "GK",
+      "Team": "Newcastle United",
+      "Born": 1992
+    },
+    {
+      "Player": "Pedro Porro",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1999
+    },
+    {
+      "Player": "Freddie Potts",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 2003
+    },
+    {
+      "Player": "Aaron Ramsdale",
+      "Pos": "GK",
+      "Team": "Newcastle United",
+      "Born": 1998
+    },
+    {
+      "Player": "Jacob Ramsey",
+      "Pos": "MF",
+      "Team": "Newcastle United",
+      "Born": 2001
+    },
+    {
+      "Player": "David Raya",
+      "Pos": "GK",
+      "Team": "Arsenal",
+      "Born": 1995
+    },
+    {
+      "Player": "Harrison Reed",
+      "Pos": "MF",
+      "Team": "Fulham",
+      "Born": 1995
+    },
+    {
+      "Player": "Tijjani Reijnders",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 1998
+    },
+    {
+      "Player": "Declan Rice",
+      "Pos": "MF",
+      "Team": "Arsenal",
+      "Born": 1999
+    },
+    {
+      "Player": "Chris Richards",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 2000
+    },
+    {
+      "Player": "Richarlison",
+      "Pos": "FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 1997
+    },
+    {
+      "Player": "Chris Rigg",
+      "Pos": "FW,MF",
+      "Team": "Sunderland",
+      "Born": 2007
+    },
+    {
+      "Player": "Patrick Roberts",
+      "Pos": "MF,FW",
+      "Team": "Sunderland",
+      "Born": 1997
+    },
+    {
+      "Player": "Andrew Robertson",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 1994
+    },
+    {
+      "Player": "Antonee Robinson",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1997
+    },
+    {
+      "Player": "Kaden Rodney",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 2004
+    },
+    {
+      "Player": "Joe Rodon",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1997
+    },
+    {
+      "Player": "Rodri",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 1996
+    },
+    {
+      "Player": "Guido Rodríguez",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 1994
+    },
+    {
+      "Player": "Robin Roefs",
+      "Pos": "GK",
+      "Team": "Sunderland",
+      "Born": 2003
+    },
+    {
+      "Player": "Morgan Rogers",
+      "Pos": "FW,MF",
+      "Team": "Aston Villa",
+      "Born": 2002
+    },
+    {
+      "Player": "Merlin Röhl",
+      "Pos": "MF",
+      "Team": "Everton",
+      "Born": 2002
+    },
+    {
+      "Player": "Cristian Romero",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 1998
+    },
+    {
+      "Player": "Georginio Rutter",
+      "Pos": "MF,FW",
+      "Team": "Brighton",
+      "Born": 2002
+    },
+    {
+      "Player": "José Sá",
+      "Pos": "GK",
+      "Team": "Wolves",
+      "Born": 1993
+    },
+    {
+      "Player": "Noah Sadiki",
+      "Pos": "MF",
+      "Team": "Sunderland",
+      "Born": 2004
+    },
+    {
+      "Player": "Bukayo Saka",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 2001
+    },
+    {
+      "Player": "Mohamed Salah",
+      "Pos": "FW,MF",
+      "Team": "Liverpool",
+      "Born": 1992
+    },
+    {
+      "Player": "William Saliba",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2001
+    },
+    {
+      "Player": "Robert Sánchez",
+      "Pos": "GK",
+      "Team": "Chelsea",
+      "Born": 1997
+    },
+    {
+      "Player": "Jadon Sancho",
+      "Pos": "FW",
+      "Team": "Aston Villa",
+      "Born": 2000
+    },
+    {
+      "Player": "Ibrahim Sangaré",
+      "Pos": "MF",
+      "Team": "Nottingham Forest",
+      "Born": 1997
+    },
+    {
+      "Player": "Andrey Santos",
+      "Pos": "MF",
+      "Team": "Chelsea",
+      "Born": 2004
+    },
+    {
+      "Player": "Ismaila Sarr",
+      "Pos": "MF,FW",
+      "Team": "Crystal Palace",
+      "Born": 1998
+    },
+    {
+      "Player": "Sávio",
+      "Pos": "MF,FW",
+      "Team": "Manchester City",
+      "Born": 2004
+    },
+    {
+      "Player": "Nicolò Savona",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2003
+    },
+    {
+      "Player": "Oliver Scarles",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 2005
+    },
+    {
+      "Player": "Dane Scarlett",
+      "Pos": "FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 2004
+    },
+    {
+      "Player": "Kevin Schade",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 2001
+    },
+    {
+      "Player": "Fabian Schär",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 1991
+    },
+    {
+      "Player": "Alex Scott",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 2003
+    },
+    {
+      "Player": "Jenson Seelt",
+      "Pos": "DF",
+      "Team": "Sunderland",
+      "Born": 2003
+    },
+    {
+      "Player": "Matz Sels",
+      "Pos": "GK",
+      "Team": "Nottingham Forest",
+      "Born": 1992
+    },
+    {
+      "Player": "Antoine Semenyo",
+      "Pos": "FW,MF",
+      "Team": "Bournemouth",
+      "Born": 2000
+    },
+    {
+      "Player": "Antoine Semenyo",
+      "Pos": "FW,MF",
+      "Team": "Manchester City",
+      "Born": 2000
+    },
+    {
+      "Player": "Marcos Senesi",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 1997
+    },
+    {
+      "Player": "Benjamin Šeško",
+      "Pos": "FW",
+      "Team": "Manchester Utd",
+      "Born": 2003
+    },
+    {
+      "Player": "Ryan Sessegnon",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 2000
+    },
+    {
+      "Player": "Luke Shaw",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 1995
+    },
+    {
+      "Player": "Bernardo Silva",
+      "Pos": "MF",
+      "Team": "Manchester City",
+      "Born": 1994
+    },
+    {
+      "Player": "Jota Silva",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 1999
+    },
+    {
+      "Player": "Xavi Simons",
+      "Pos": "MF,FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 2003
+    },
+    {
+      "Player": "Adam Smith",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 1991
+    },
+    {
+      "Player": "Emile Smith Rowe",
+      "Pos": "MF",
+      "Team": "Fulham",
+      "Born": 2000
+    },
+    {
+      "Player": "Dominic Solanke",
+      "Pos": "FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 1997
+    },
+    {
+      "Player": "Julio Soler",
+      "Pos": "DF,FW",
+      "Team": "Bournemouth",
+      "Born": 2005
+    },
+    {
+      "Player": "Oliver Sonne",
+      "Pos": "DF,FW",
+      "Team": "Burnley",
+      "Born": 2000
+    },
+    {
+      "Player": "Borna Sosa",
+      "Pos": "DF",
+      "Team": "Crystal Palace",
+      "Born": 1998
+    },
+    {
+      "Player": "Tomáš Souček",
+      "Pos": "MF,FW",
+      "Team": "West Ham United",
+      "Born": 1995
+    },
+    {
+      "Player": "Djed Spence",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2000
+    },
+    {
+      "Player": "Anton Stach",
+      "Pos": "MF",
+      "Team": "Leeds United",
+      "Born": 1998
+    },
+    {
+      "Player": "John Stones",
+      "Pos": "DF",
+      "Team": "Manchester City",
+      "Born": 1994
+    },
+    {
+      "Player": "Jørgen Strand Larsen",
+      "Pos": "FW",
+      "Team": "Wolves",
+      "Born": 2000
+    },
+    {
+      "Player": "Pascal Struijk",
+      "Pos": "DF",
+      "Team": "Leeds United",
+      "Born": 1999
+    },
+    {
+      "Player": "Crysencio Summerville",
+      "Pos": "FW,MF",
+      "Team": "West Ham United",
+      "Born": 2001
+    },
+    {
+      "Player": "Dominik Szoboszlai",
+      "Pos": "MF,DF",
+      "Team": "Liverpool",
+      "Born": 2000
+    },
+    {
+      "Player": "Chemsdine Talbi",
+      "Pos": "FW,MF",
+      "Team": "Sunderland",
+      "Born": 2005
+    },
+    {
+      "Player": "Ao Tanaka",
+      "Pos": "MF",
+      "Team": "Leeds United",
+      "Born": 1998
+    },
+    {
+      "Player": "James Tarkowski",
+      "Pos": "DF",
+      "Team": "Everton",
+      "Born": 1992
+    },
+    {
+      "Player": "Marcus Tavernier",
+      "Pos": "MF,FW",
+      "Team": "Bournemouth",
+      "Born": 1999
+    },
+    {
+      "Player": "Loum Tchaouna",
+      "Pos": "MF,FW",
+      "Team": "Burnley",
+      "Born": 2003
+    },
+    {
+      "Player": "Jackson Tchatchoua",
+      "Pos": "DF,MF",
+      "Team": "Wolves",
+      "Born": 2001
+    },
+    {
+      "Player": "Mathys Tel",
+      "Pos": "FW",
+      "Team": "Tottenham Hotspur",
+      "Born": 2005
+    },
+    {
+      "Player": "Kenny Tete",
+      "Pos": "DF",
+      "Team": "Fulham",
+      "Born": 1995
+    },
+    {
+      "Player": "Thiago",
+      "Pos": "FW",
+      "Team": "Brentford",
+      "Born": 2001
+    },
+    {
+      "Player": "Malick Thiaw",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 2001
+    },
+    {
+      "Player": "Youri Tielemans",
+      "Pos": "MF",
+      "Team": "Aston Villa",
+      "Born": 1997
+    },
+    {
+      "Player": "Jurriën Timber",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 2001
+    },
+    {
+      "Player": "Jean-Clair Todibo",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1999
+    },
+    {
+      "Player": "Sandro Tonali",
+      "Pos": "MF",
+      "Team": "Newcastle United",
+      "Born": 2000
+    },
+    {
+      "Player": "Pau Torres",
+      "Pos": "DF",
+      "Team": "Aston Villa",
+      "Born": 1997
+    },
+    {
+      "Player": "James Trafford",
+      "Pos": "GK",
+      "Team": "Manchester City",
+      "Born": 2002
+    },
+    {
+      "Player": "Adama Traoré",
+      "Pos": "FW,MF",
+      "Team": "Fulham",
+      "Born": 1996
+    },
+    {
+      "Player": "Bertrand Traoré",
+      "Pos": "FW,MF",
+      "Team": "Sunderland",
+      "Born": 1995
+    },
+    {
+      "Player": "Mike Trésor",
+      "Pos": "MF,FW",
+      "Team": "Burnley",
+      "Born": 1999
+    },
+    {
+      "Player": "Kieran Trippier",
+      "Pos": "DF",
+      "Team": "Newcastle United",
+      "Born": 1990
+    },
+    {
+      "Player": "Leandro Trossard",
+      "Pos": "FW",
+      "Team": "Arsenal",
+      "Born": 1994
+    },
+    {
+      "Player": "Adrien Truffert",
+      "Pos": "DF",
+      "Team": "Bournemouth",
+      "Born": 2001
+    },
+    {
+      "Player": "Axel Tuanzebe",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 1997
+    },
+    {
+      "Player": "Stefanos Tzimas",
+      "Pos": "FW,MF",
+      "Team": "Brighton",
+      "Born": 2006
+    },
+    {
+      "Player": "Christantus Uche",
+      "Pos": "MF,FW",
+      "Team": "Crystal Palace",
+      "Born": 2003
+    },
+    {
+      "Player": "Destiny Udogie",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2002
+    },
+    {
+      "Player": "Manuel Ugarte",
+      "Pos": "MF",
+      "Team": "Manchester Utd",
+      "Born": 2001
+    },
+    {
+      "Player": "Lesley Ugochukwu",
+      "Pos": "MF",
+      "Team": "Burnley",
+      "Born": 2004
+    },
+    {
+      "Player": "Enes Ünal",
+      "Pos": "FW,MF",
+      "Team": "Bournemouth",
+      "Born": 1997
+    },
+    {
+      "Player": "Virgil van Dijk",
+      "Pos": "DF",
+      "Team": "Liverpool",
+      "Born": 1991
+    },
+    {
+      "Player": "Joël Veltman",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 1992
+    },
+    {
+      "Player": "Micky van de Ven",
+      "Pos": "DF",
+      "Team": "Tottenham Hotspur",
+      "Born": 2001
+    },
+    {
+      "Player": "Bart Verbruggen",
+      "Pos": "GK",
+      "Team": "Brighton",
+      "Born": 2002
+    },
+    {
+      "Player": "Guglielmo Vicario",
+      "Pos": "GK",
+      "Team": "Tottenham Hotspur",
+      "Born": 1996
+    },
+    {
+      "Player": "Kyle Walker",
+      "Pos": "DF,MF",
+      "Team": "Burnley",
+      "Born": 1990
+    },
+    {
+      "Player": "Kyle Walker-Peters",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1997
+    },
+    {
+      "Player": "Aaron Wan-Bissaka",
+      "Pos": "DF",
+      "Team": "West Ham United",
+      "Born": 1997
+    },
+    {
+      "Player": "James Ward-Prowse",
+      "Pos": "MF",
+      "Team": "West Ham United",
+      "Born": 1994
+    },
+    {
+      "Player": "Ollie Watkins",
+      "Pos": "FW",
+      "Team": "Aston Villa",
+      "Born": 1995
+    },
+    {
+      "Player": "Tom Watson",
+      "Pos": "FW",
+      "Team": "Brighton",
+      "Born": 2006
+    },
+    {
+      "Player": "Danny Welbeck",
+      "Pos": "FW",
+      "Team": "Brighton",
+      "Born": 1990
+    },
+    {
+      "Player": "Adam Wharton",
+      "Pos": "MF",
+      "Team": "Crystal Palace",
+      "Born": 2004
+    },
+    {
+      "Player": "Ben White",
+      "Pos": "DF",
+      "Team": "Arsenal",
+      "Born": 1997
+    },
+    {
+      "Player": "Mats Wieffer",
+      "Pos": "DF",
+      "Team": "Brighton",
+      "Born": 1999
+    },
+    {
+      "Player": "Neco Williams",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 2001
+    },
+    {
+      "Player": "Estêvão Willian",
+      "Pos": "FW",
+      "Team": "Chelsea",
+      "Born": 2007
+    },
+    {
+      "Player": "Joe Willock",
+      "Pos": "MF,FW",
+      "Team": "Newcastle United",
+      "Born": 1999
+    },
+    {
+      "Player": "Callum Wilson",
+      "Pos": "FW",
+      "Team": "West Ham United",
+      "Born": 1992
+    },
+    {
+      "Player": "Harry Wilson",
+      "Pos": "FW,MF",
+      "Team": "Fulham",
+      "Born": 1997
+    },
+    {
+      "Player": "Ben Winterburn",
+      "Pos": "MF",
+      "Team": "Bournemouth",
+      "Born": 2004
+    },
+    {
+      "Player": "Florian Wirtz",
+      "Pos": "MF,FW",
+      "Team": "Liverpool",
+      "Born": 2003
+    },
+    {
+      "Player": "Yoane Wissa",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 1996
+    },
+    {
+      "Player": "Nick Woltemade",
+      "Pos": "FW",
+      "Team": "Newcastle United",
+      "Born": 2002
+    },
+    {
+      "Player": "Chris Wood",
+      "Pos": "FW",
+      "Team": "Nottingham Forest",
+      "Born": 1991
+    },
+    {
+      "Player": "Joe Worrall",
+      "Pos": "DF",
+      "Team": "Burnley",
+      "Born": 1997
+    },
+    {
+      "Player": "Granit Xhaka",
+      "Pos": "MF",
+      "Team": "Sunderland",
+      "Born": 1992
+    },
+    {
+      "Player": "Yehor Yarmoliuk",
+      "Pos": "MF",
+      "Team": "Brentford",
+      "Born": 2004
+    },
+    {
+      "Player": "Ryan Yates",
+      "Pos": "MF",
+      "Team": "Nottingham Forest",
+      "Born": 1997
+    },
+    {
+      "Player": "Leny Yoro",
+      "Pos": "DF",
+      "Team": "Manchester Utd",
+      "Born": 2005
+    },
+    {
+      "Player": "Oleksandr Zinchenko",
+      "Pos": "DF",
+      "Team": "Nottingham Forest",
+      "Born": 1996
+    },
+    {
+      "Player": "Joshua Zirkzee",
+      "Pos": "FW,MF",
+      "Team": "Manchester Utd",
+      "Born": 2001
+    },
+    {
+      "Player": "Martín Zubimendi",
+      "Pos": "MF",
+      "Team": "Arsenal",
+      "Born": 1999
+    },
+    {
+      "Player": "Martin Ødegaard",
+      "Pos": "MF",
+      "Team": "Arsenal",
+      "Born": 1998
+    }
+  ]
+}
